@@ -17,4 +17,4 @@ previsao-tempo/
 └── README.md (opcional)
 ```
 ## Visualização da Tela 
- ![print](./assets/print.png)
+ - > Link: blob:https://web.whatsapp.com/70baaf66-c6a2-42db-93f9-5af0fe488b88
