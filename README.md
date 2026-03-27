@@ -7,7 +7,8 @@ Atividade de PFE 1 sobre Previsão do Tempo com API
 - > CSS
 - > API DE PREVISÃO DO TEMPO
 
-  ```git hub
+## Estrutura 
+```git hub
 previsao-tempo/
 │
 ├── index.html
